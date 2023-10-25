@@ -19,7 +19,7 @@ internal class Program
             break;
 
             case (int)Cesta.ne:
-                cesta = @"C:\Users\sarka\Documents\C#\Czechitas\text.txt";
+                cesta = @"C:\text.txt";
             break;
 
         }
